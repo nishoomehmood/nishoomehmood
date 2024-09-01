@@ -1,6 +1,6 @@
 <h3 align="center">Mobile App developer</h3>
 
-- 🌱 I’m currently learning **FlutterFlow**
+- 🌱 I’m currently learning **Web Development**
 
 - 👯 I’m looking to collaborate **with other developers.**
 
