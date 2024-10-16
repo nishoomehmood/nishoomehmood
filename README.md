@@ -1,12 +1,14 @@
 <h3 align="center">Mobile App developer</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 **Full Stack Web Development**
 
 - 👯 I’m looking to collaborate **with other developers.**
 
 - 👨‍💻 All of my projects are available at [http://nitashasaddiqaportfolio.dorik.io](http://nitashasaddiqaportfolio.dorik.io)
 
 - 💬 Ask me about **Dart, Flutter**
+  
+- 💼 I’m currently working as a **Figma Designer**.
 
 - 📫 How to reach me **nishoomehmood@gmail.com**
 
