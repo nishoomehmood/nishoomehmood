@@ -6,9 +6,9 @@
 
 - 👨‍💻 All of my projects are available at [http://nitashasaddiqaportfolio.dorik.io](http://nitashasaddiqaportfolio.dorik.io)
 
-- 💬 Ask me about **Dart, Flutter**
+- 💬 Ask me about **Express.js, PostgreSQL**
   
-- 💼 I’m currently working as a **Figma Designer**.
+- 💼 I’m currently working as a **Web Developer**.
 
 - 📫 How to reach me **nishoomehmood@gmail.com**
 
